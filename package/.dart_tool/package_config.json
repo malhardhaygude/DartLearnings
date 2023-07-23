@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "bloc",
+      "rootUri": "file:///C:/Users/malha/AppData/Local/Pub/Cache/hosted/pub.dev/bloc-7.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/malha/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-07-21T07:26:32.517073Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.6"
+}

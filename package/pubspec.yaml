@@ -1,0 +1,5 @@
+name: "package"
+environment:
+  sdk: "^3.0.0"
+dependencies:
+  bloc: ^7.0.0
