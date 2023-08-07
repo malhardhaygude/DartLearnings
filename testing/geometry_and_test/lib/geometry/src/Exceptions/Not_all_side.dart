@@ -1,0 +1,1 @@
+class NotAllSidesException implements Exception {}
